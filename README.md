@@ -273,10 +273,10 @@ As a **Bonus**, provide the specific commands the user will need to run to downl
 | `nano metricbeat-playbook.yml`                    | write YAML file to install metricbeat on webservers    |
 
 [My First Playbook]: https://github.com/maitri3997/ELK-Deployemnt-Project/blob/main/Ansible/Docker/pentest.yml
-[Hosts]: https://github.com/maitri3997/ELK-Deployment-Project/blob/main/Ansible/ELK-Stack/hosts
-  	[Ansible Configuration]: https://github.com/maitri3997/ELK-Deployment-Project/blob/main/Ansible/ELK-Stack/ansible.cfg
-  	[Ansible ELK Installation and VM Configuration]: https://github.com/maitri3997/ELK-Deployment-Project/blob/main/Ansible/ELK-Stack/install-elk.yml
-  	[Filebeat Config]: https://github.com/maitri3997/ELK-Deployment-Project/blob/main/Ansible/Filebeat/filebeat_config.yml
+[Hosts]: https://github.com/maitri3997/ELK-Deployment-Project/blob/main/Ansible/Elk-Stack/hosts
+  	[Ansible Configuration]: https://github.com/maitri3997/ELK-Deployemnt-Project/blob/main/Ansible/Elk_Stack/ansible.cfg
+  	[Ansible ELK Installation and VM Configuration]: https://github.com/maitri3997/ELK-Deployment-Project/blob/main/Ansible/Elk-Stack/install-elk.yml
+  	[Filebeat Config]: https://github.com/maitri3997/ELK-Deployemnt-Project/blob/main/Ansible/Filebeat/filebeat_config.yml
   	[Filebeat Playbook]: https://github.com/maitri3997/ELK-Deployment-Project/blob/main/Ansible/Filebeat/filebeat_playbook.yml
   	[Metricbeat Config]: https://github.com/maitri3997/ELK-Deployment-Project/blob/main/Ansible/Metricbeat/metricbeat-config.yml
   [Metricbeat Playbook]: https://github.com/maitri3997/ELK-Deployment-Project/blob/main/Ansible/Metricbeat/metricbeat-playbook.yml
